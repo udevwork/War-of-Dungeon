@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32b5323b97bc74674b11fc9e584a5aaf, type: 3}
+  m_Name: BR_BarbarianGiant
+  m_EditorClassIdentifier: 
+  Id: 3
+  charecter: {fileID: 11400000, guid: 8e37cdd2b6c054afea7c54ae38e0a823, type: 2}
+  CharIcon: {fileID: 21300000, guid: d27d11c2fdeba4b3c975932ff22f99d0, type: 3}
+  CharName: BarbarianGiant
+  isCharecterUnlocked: 0
+  ChoosedMaterial: {fileID: 0}
+  skins:
+  - {fileID: 2100000, guid: 7b44d8300f62c4a60b5d57df7e9589ca, type: 2}
+  - {fileID: 2100000, guid: 821c9e967518d451b89f206a660b2eee, type: 2}
+  - {fileID: 2100000, guid: b73e3f1f4fd0f4205a407be3036e32d3, type: 2}
+  ClassOne: {fileID: 11400000, guid: 4ef84b1a5b6904c2e8dd23bad4071395, type: 2}
+  ClassTwo: {fileID: 11400000, guid: 2233c65ee42c34f63913a30fba304fe1, type: 2}
+  ClassThree: {fileID: 11400000, guid: 057f934994f07491b83db7e783847632, type: 2}
+  ClassFour: {fileID: 11400000, guid: 78651855e3c3343b7ace428544db145f, type: 2}
+  skin_Choosed: 0
+  CallMeDaddyModel: {fileID: 1031645495530376, guid: a58f6137f2e5b4b1db07fb1056b1666b,
+    type: 2}

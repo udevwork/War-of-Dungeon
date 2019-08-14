@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505550eb12e0f4c44b9eb9f05d66072b, type: 3}
+  m_Name: Ork Set
+  m_EditorClassIdentifier: 
+  EnemysToSpawn:
+  - {fileID: 11400000, guid: a69736c58e8824ece821e60891b3a93b, type: 2}
+  - {fileID: 11400000, guid: b724baac6e0984b1db609dacf0d4a22e, type: 2}
+  - {fileID: 11400000, guid: e5f4729380714421b842df122a3d3d40, type: 2}
+  - {fileID: 11400000, guid: 819e5f08171934d38a1563f57af6a098, type: 2}
+  - {fileID: 11400000, guid: 929f2ac8b5d5b4553b703c416bea095f, type: 2}
+  - {fileID: 11400000, guid: 2bc4fc2155fa545afaa24ad3573feff7, type: 2}
+  - {fileID: 11400000, guid: 192605c8e97df40bfab1c1b0d83797e8, type: 2}
+  - {fileID: 11400000, guid: 40285f80077cc4dae854de9195ae2f8f, type: 2}
+  - {fileID: 11400000, guid: e133b9a6a292842608179a017d5a8a47, type: 2}
+  - {fileID: 11400000, guid: b2ada4cd5079348f88c8a5d6763296b3, type: 2}

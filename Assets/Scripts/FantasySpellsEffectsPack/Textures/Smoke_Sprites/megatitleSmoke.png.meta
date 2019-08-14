@@ -1,0 +1,2187 @@
+fileFormatVersion: 2
+guid: ab9ef625368b74061861652bf3bc384f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megatitleSmoke_0
+    21300002: megatitleSmoke_1
+    21300004: megatitleSmoke_2
+    21300006: megatitleSmoke_3
+    21300008: megatitleSmoke_4
+    21300010: megatitleSmoke_5
+    21300012: megatitleSmoke_6
+    21300014: megatitleSmoke_7
+    21300016: megatitleSmoke_8
+    21300018: megatitleSmoke_9
+    21300020: megatitleSmoke_10
+    21300022: megatitleSmoke_11
+    21300024: megatitleSmoke_12
+    21300026: megatitleSmoke_13
+    21300028: megatitleSmoke_14
+    21300030: megatitleSmoke_15
+    21300032: megatitleSmoke_16
+    21300034: megatitleSmoke_17
+    21300036: megatitleSmoke_18
+    21300038: megatitleSmoke_19
+    21300040: megatitleSmoke_20
+    21300042: megatitleSmoke_21
+    21300044: megatitleSmoke_22
+    21300046: megatitleSmoke_23
+    21300048: megatitleSmoke_24
+    21300050: megatitleSmoke_25
+    21300052: megatitleSmoke_26
+    21300054: megatitleSmoke_27
+    21300056: megatitleSmoke_28
+    21300058: megatitleSmoke_29
+    21300060: megatitleSmoke_30
+    21300062: megatitleSmoke_31
+    21300064: megatitleSmoke_32
+    21300066: megatitleSmoke_33
+    21300068: megatitleSmoke_34
+    21300070: megatitleSmoke_35
+    21300072: megatitleSmoke_36
+    21300074: megatitleSmoke_37
+    21300076: megatitleSmoke_38
+    21300078: megatitleSmoke_39
+    21300080: megatitleSmoke_40
+    21300082: megatitleSmoke_41
+    21300084: megatitleSmoke_42
+    21300086: megatitleSmoke_43
+    21300088: megatitleSmoke_44
+    21300090: megatitleSmoke_45
+    21300092: megatitleSmoke_46
+    21300094: megatitleSmoke_47
+    21300096: megatitleSmoke_48
+    21300098: megatitleSmoke_49
+    21300100: megatitleSmoke_50
+    21300102: megatitleSmoke_51
+    21300104: megatitleSmoke_52
+    21300106: megatitleSmoke_53
+    21300108: megatitleSmoke_54
+    21300110: megatitleSmoke_55
+    21300112: megatitleSmoke_56
+    21300114: megatitleSmoke_57
+    21300116: megatitleSmoke_58
+    21300118: megatitleSmoke_59
+    21300120: megatitleSmoke_60
+    21300122: megatitleSmoke_61
+    21300124: megatitleSmoke_62
+    21300126: megatitleSmoke_63
+    21300128: megatitleSmoke_64
+    21300130: megatitleSmoke_65
+    21300132: megatitleSmoke_66
+    21300134: megatitleSmoke_67
+    21300136: megatitleSmoke_68
+    21300138: megatitleSmoke_69
+    21300140: megatitleSmoke_70
+    21300142: megatitleSmoke_71
+    21300144: megatitleSmoke_72
+    21300146: megatitleSmoke_73
+    21300148: megatitleSmoke_74
+    21300150: megatitleSmoke_75
+    21300152: megatitleSmoke_76
+    21300154: megatitleSmoke_77
+    21300156: megatitleSmoke_78
+    21300158: megatitleSmoke_79
+    21300160: megatitleSmoke_80
+    21300162: megatitleSmoke_81
+    21300164: megatitleSmoke_82
+    21300166: megatitleSmoke_83
+    21300168: megatitleSmoke_84
+    21300170: megatitleSmoke_85
+    21300172: megatitleSmoke_86
+    21300174: megatitleSmoke_87
+    21300176: megatitleSmoke_88
+    21300178: megatitleSmoke_89
+    21300180: megatitleSmoke_90
+    21300182: megatitleSmoke_91
+    21300184: megatitleSmoke_92
+    21300186: megatitleSmoke_93
+    21300188: megatitleSmoke_94
+    21300190: megatitleSmoke_95
+    21300192: megatitleSmoke_96
+    21300194: megatitleSmoke_97
+    21300196: megatitleSmoke_98
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megatitleSmoke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae013a6881e349409e1ad82e0d03762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0844b5116b4d59abd44955c469fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8b66426bd04da4af244e579d5182c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_3
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49279d3ab632b4b16be13aa8cf7ca894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_4
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc91d2e5b3944c46a1d8a6f435c4986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_5
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dc19d6c24394420b519fbd2aae7569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_6
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e490b3825a43ca9e3bcc6a101a98b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_7
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e52b4b8765485ea5410ecff7d0ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_8
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c61f38933584df08427e29de3e59e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_9
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3686.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fbc2f92fffc404b850d53227d5a254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d3c6f70a43f4d78a562e7fe6ff7934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e3ce346debf4f61be80efb1a9ad183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36786ef92c164467b18bbd3c5d7b2c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_13
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808213f5fe5a42f386a3e1de396ebdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af25dab2a5844ac8683f7b9a4e4061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_15
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d242e0997ee84f0881deb7a0665ee64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_16
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c923ddca58ae4cc9ad61e6dc0b2a215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_17
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2157a34d6fd96403e86e0bc302afa5ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_18
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04f057bf2084891b67be5799ffcacb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_19
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3277.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e64989bfa6a46a29c0dd12b86bd1b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9522fbb6a9c4384aa364426d40ab48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95fb88f24834722a7665ae81f585ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bffb7fe48ac43ae909d658a869e0d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_23
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562402017b90e4d51a86b4c024efd091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_24
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc5ca04a6c0d48738119817b23da3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_25
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d685ad36f8b4000a315e90f0480839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_26
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e5d69adebc48e7ba12a2cf753330f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_27
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506afabdeb354a6b8e2b39d7c5fb744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_28
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73707eaf6239a4e16bc9b14f09c05a18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_29
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2868.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1abd3f3b0c40a38e97228cbfb27bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da705334d947413592e63e917e3e190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ecc4d08ff044192bbeab2237d1282d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_32
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4efb5f8926a47d195f5b07822ba244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_33
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146016df6affa4b66aa9c903420375a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_34
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646ce7bab1c7418488d37b85f3fdf6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_35
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1330e5695477b4a0484d3d9b9736f2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_36
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a6b74c506514a1c96453a3734bfa11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_37
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610bd7d1098f24983810d4eb7eff891c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_38
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933236f8a4d94dcab8a7fcc587080f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_39
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2459.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c2df0370d74e70a67c9e46aa8ff52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c037845c8c04f0c8996380433a1088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_41
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1a8b8c102a4063ac7856cda68951f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473498ff5d34948758821ea9b21fe7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_43
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f671e81135d4f10ab25ec74df16865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_44
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e35ddf1f4ca478b8d074e14ddeb386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_45
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c554b49cf6aa642d49688c5748346327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_46
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0381037ad0d44d0e9799d499a604a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_47
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37067bc62d2d4269b9573d736c3217f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_48
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0322a15bea43769fa62f38e8e13d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_49
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2050.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182487f81aa0149029733eedab582984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efa8da6a54e34cee80272a33a7d06b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ca4a9c543f46e88328511f732a014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_52
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e5921bb8360494e8ca04303f57f5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_53
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde090482ef5149ffbb22feb32a1ba79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_54
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e82baab02d241849842d9dc31f7dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_55
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b915639d4ae4bfeaaf8f5e7693aee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_56
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6267e8b929e465ea79f9d042131590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_57
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331a60dfc3fd47adbfd1a16c00cc86e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_58
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7098d311b0f47a7a45990e2db3141c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_59
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1641.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63dcee00a9f41a3bccbec508ad75e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fce00c1b3c74616bd4f020f52da52c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2693f8442a3164d53b3b36cd4db808fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_62
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01155c8a34a94c7f9bab7de0d778706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_63
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d346d52cda8f4542a3f2f2f0a11872d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_64
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0b8017ec9749688637a59fbe4bdf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_65
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcf002d14ed943e8bf8b59d24d66d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_66
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adcabca124eb475eb197d05a7e27c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_67
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef722bebf894b81beb1ec8119f60cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_68
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ded5c34d1a34c45b89eab3d00dca48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_69
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1232.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc60bc465db8a4548b0960a5f8ad1aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489f9ce4c1c64ca696f8342b6896734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_71
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d251ccaf759a4f2fa1bb276e023f9d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_72
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ca8c85fae442d580cc25e0fd85892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_73
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4035f8959338456b8e581216496604f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_74
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6b3b59c8e7f4b5797ae85fca688c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_75
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858eb6a92ce5243c9b89843ce9da7806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_76
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c23c92c0dbb42b8bf2a87aa03acf74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_77
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037c0ae6d62444169c281faebfcfabf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_78
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67219ab0bb060406c97fe7f42a75a88c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_79
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 823.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842cdfb164c84fdc8dea492bad05a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f70a542b9994c968899c79c2ea7b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_81
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d6e1140c634285a5d8a70d2e320d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_82
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310af8abb46064218a9170e1e6fa4398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_83
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281440687b504e059f6a3172963f2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_84
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc49181186544ab81484057fbf10a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_85
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c466bb957d46426dab6331041d496c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_86
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb18c37280d164f4aa0880529b09affb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_87
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b52c79f927cb45afb1c6aa2b0c750d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_88
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8050c3faed403b82b47b6bf09d05d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_89
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 414.4
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357aa8ba9d4c420dbd77429cd506ecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c518890aa8e3444499b59e13b67ea00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_91
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a908d0ebbc14f0e85de3e481d51da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_92
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8054736cac4f04542a84270dab9a33c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_93
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0729a9623a44acbe0700b3c9d7f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_94
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fec0288aa9b4964883fbea4e08fa1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_95
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9eb2d944db2449fbcad16ad9e452f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_96
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7a8b81c0eb14656a359d3518d08740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_97
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bced29a0a880b493f84451989a94e574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megatitleSmoke_98
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 5.399994
+        width: 409.6
+        height: 409.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9aacbee081a464499f06f261e82163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3370291b6a36243e08c7a51393042f1a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

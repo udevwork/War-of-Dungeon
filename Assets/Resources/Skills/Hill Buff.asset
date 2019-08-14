@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eacbe818432046e0bd3b952bdc5abab, type: 3}
+  m_Name: Hill Buff
+  m_EditorClassIdentifier: 
+  Id: 7
+  skillName: 1
+  skillDescription: 2
+  level: 1
+  Cost: 10
+  Main_VFX: {fileID: 1262134566802138, guid: 33451407fa92042cf8aec6dc864e5bd3, type: 2}
+  AdittionalEffect: {fileID: 1233095479699676, guid: cdb941718ed534b3186f2fe6aa5c829f,
+    type: 2}
+  SFX: {fileID: 0}
+  ReloadTime: 1
+  SpellIcon: {fileID: 21300000, guid: 411f88b287eb8504aa08edb04c1443c6, type: 3}
+  DefMagicForce: 1
+  hero: {fileID: 0}
+  SeconEffectPosition: {fileID: 0}
+  skillType: 0

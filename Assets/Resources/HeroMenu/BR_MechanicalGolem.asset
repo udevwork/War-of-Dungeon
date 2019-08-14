@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32b5323b97bc74674b11fc9e584a5aaf, type: 3}
+  m_Name: BR_MechanicalGolem
+  m_EditorClassIdentifier: 
+  Id: 5
+  charecter: {fileID: 11400000, guid: 1f1fce18dc4774698a68076b72fdd7b1, type: 2}
+  CharIcon: {fileID: 21300000, guid: 97ba53e517b0c45c6858a08fccf19026, type: 3}
+  CharName: MechanicalGolem
+  isCharecterUnlocked: 0
+  ChoosedMaterial: {fileID: 0}
+  skins:
+  - {fileID: 2100000, guid: 2f445eadaf48f42d7827530c5d57b7e8, type: 2}
+  - {fileID: 2100000, guid: a0bc113ceae474b0ca79baa2967218de, type: 2}
+  - {fileID: 2100000, guid: fa2a82f50351c4cf4919af01125d3b86, type: 2}
+  ClassOne: {fileID: 11400000, guid: 4ef84b1a5b6904c2e8dd23bad4071395, type: 2}
+  ClassTwo: {fileID: 11400000, guid: 2233c65ee42c34f63913a30fba304fe1, type: 2}
+  ClassThree: {fileID: 11400000, guid: c0f947188f60745d19f178ab38238561, type: 2}
+  ClassFour: {fileID: 11400000, guid: 6ede3e62283584afa94f63cb70441d02, type: 2}
+  skin_Choosed: 0
+  CallMeDaddyModel: {fileID: 1874315336952500, guid: 7699b746524c0499b92e28baefea1d84,
+    type: 2}

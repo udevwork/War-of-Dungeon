@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32b5323b97bc74674b11fc9e584a5aaf, type: 3}
+  m_Name: AncientQueen
+  m_EditorClassIdentifier: 
+  Id: 1
+  charecter: {fileID: 11400000, guid: a4d4195807e5a4b599c5c0cd38718945, type: 2}
+  CharIcon: {fileID: 21300000, guid: 60d8abdfe336a4967be9884859fe1888, type: 3}
+  CharName: AncientQueen
+  isCharecterUnlocked: 0
+  ChoosedMaterial: {fileID: 0}
+  skins:
+  - {fileID: 2100000, guid: a7ed948a87ede447f9b3fc7aa3fe6f2d, type: 2}
+  - {fileID: 2100000, guid: ce7bc943340e34858aa2341f3a4fae6b, type: 2}
+  - {fileID: 2100000, guid: 156c0caf9abcb410aaea7dcced35b062, type: 2}
+  ClassOne: {fileID: 11400000, guid: 2233c65ee42c34f63913a30fba304fe1, type: 2}
+  ClassTwo: {fileID: 11400000, guid: 057f934994f07491b83db7e783847632, type: 2}
+  ClassThree: {fileID: 11400000, guid: 6ede3e62283584afa94f63cb70441d02, type: 2}
+  ClassFour: {fileID: 11400000, guid: 696f17c4e1fdc4662bba0d8042b6d9a7, type: 2}
+  skin_Choosed: 0
+  CallMeDaddyModel: {fileID: 1215966610714162, guid: fffa6346e2c154a53b0f919824a3afd9,
+    type: 2}

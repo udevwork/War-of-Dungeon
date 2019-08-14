@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0175deac0d4d9493ebea683717974bba, type: 3}
+  m_Name: Monk
+  m_EditorClassIdentifier: 
+  Id: 4
+  ClassName: Monk
+  ClassDecription: 
+  ClassIcon: {fileID: 21300000, guid: 0e2d3cbaa7308b844bc1e008d0c5176f, type: 3}
+  IsShildOnBack: 1
+  DefoultWeapon: {fileID: 11400000, guid: 291fdb8980433478c85915b9e31e435f, type: 2}
+  BR_animator: {fileID: 9100000, guid: 92e4ece524e0c4b7cb935bf05a1364aa, type: 2}
+  Simple_animator: {fileID: 9100000, guid: dabd4b78997f84a098d118f37de2a4c5, type: 2}

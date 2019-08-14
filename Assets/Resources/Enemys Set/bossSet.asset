@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505550eb12e0f4c44b9eb9f05d66072b, type: 3}
+  m_Name: bossSet
+  m_EditorClassIdentifier: 
+  EnemysToSpawn:
+  - {fileID: 11400000, guid: ca4e5122d704a4cc38cb5e6252fb2498, type: 2}
+  - {fileID: 11400000, guid: 157a952e3e9694ab1a87bea9f0d6a236, type: 2}
+  - {fileID: 11400000, guid: db423b1896486406aa0f62258818cc51, type: 2}

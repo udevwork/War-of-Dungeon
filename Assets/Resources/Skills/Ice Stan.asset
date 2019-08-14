@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb9df405489a44ab29fb24f11fd6e0ac, type: 3}
+  m_Name: Ice Stan
+  m_EditorClassIdentifier: 
+  Id: 8
+  skillName: 1
+  skillDescription: 1
+  level: 1
+  Cost: 10
+  Main_VFX: {fileID: 1876455050196522, guid: e5718d4a3290649259e9b2eca118c149, type: 2}
+  AdittionalEffect: {fileID: 1078523879075978, guid: 1bacb5198c17749eb90d8fc0605e035f,
+    type: 2}
+  SFX: {fileID: 0}
+  ReloadTime: 1
+  SpellIcon: {fileID: 21300000, guid: 6becf50c5d862904cacebdac87f15502, type: 3}
+  DefMagicForce: 1
+  hero: {fileID: 0}
+  SeconEffectPosition: {fileID: 0}
+  skillType: 0

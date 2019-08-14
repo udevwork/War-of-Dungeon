@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32b5323b97bc74674b11fc9e584a5aaf, type: 3}
+  m_Name: BR_Dwarf
+  m_EditorClassIdentifier: 
+  Id: 4
+  charecter: {fileID: 11400000, guid: 61e1c034e3a844678869fdbb5b3e184e, type: 2}
+  CharIcon: {fileID: 21300000, guid: 0904db86ecac7424395b102c44ab0c0f, type: 3}
+  CharName: Dwarf
+  isCharecterUnlocked: 0
+  ChoosedMaterial: {fileID: 2100000, guid: e63351e256425448396a0c382dab0bb6, type: 2}
+  skins:
+  - {fileID: 2100000, guid: e63351e256425448396a0c382dab0bb6, type: 2}
+  - {fileID: 2100000, guid: 16d5025c4a40340008693b11865978b5, type: 2}
+  - {fileID: 2100000, guid: 18b2b3eb65b77458a9ac303389de6f7c, type: 2}
+  ClassOne: {fileID: 11400000, guid: 4ef84b1a5b6904c2e8dd23bad4071395, type: 2}
+  ClassTwo: {fileID: 11400000, guid: 057f934994f07491b83db7e783847632, type: 2}
+  ClassThree: {fileID: 11400000, guid: 696f17c4e1fdc4662bba0d8042b6d9a7, type: 2}
+  ClassFour: {fileID: 11400000, guid: 78651855e3c3343b7ace428544db145f, type: 2}
+  skin_Choosed: 0
+  CallMeDaddyModel: {fileID: 1047398060197444, guid: 7ba2243f5b56c4e4380a2fafed53a5b8,
+    type: 2}

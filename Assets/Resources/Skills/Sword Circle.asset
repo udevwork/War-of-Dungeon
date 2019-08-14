@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 753e18748bb3d44429a6e78147c11ad6, type: 3}
+  m_Name: Sword Circle
+  m_EditorClassIdentifier: 
+  Id: 12
+  skillName: 2
+  skillDescription: 2
+  level: 1
+  Cost: 10
+  Main_VFX: {fileID: 1289005715207368, guid: 62b65f884f3b04e05bd898b86d7bede4, type: 2}
+  AdittionalEffect: {fileID: 1125826511689392, guid: b05c20f022e334b41a23cab760493314,
+    type: 2}
+  SFX: {fileID: 8300000, guid: 645c5030e37064d508daeb1a8584e1b1, type: 3}
+  ReloadTime: 1
+  SpellIcon: {fileID: 21300000, guid: eced15bb959edc54c8457ab75f9a45b5, type: 3}
+  DefMagicForce: 1
+  hero: {fileID: 0}
+  SeconEffectPosition: {fileID: 0}
+  skillType: 2

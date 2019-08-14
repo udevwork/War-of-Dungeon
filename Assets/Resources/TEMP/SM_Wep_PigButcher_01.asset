@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac540a6d5ef44b5aa584e1b930ce8a5, type: 3}
+  m_Name: SM_Wep_PigButcher_01
+  m_EditorClassIdentifier: 
+  id: 5
+  TempId: 0
+  itemName: Aebbugha
+  itemDescription: The blade has a thin, straight cross-guard, just large enough
+  itemlevel: 0
+  itemSegments: 0
+  TotalItemSegment: 0
+  objectToSpawn: {fileID: 1574553127320600, guid: 77b19eccec82c1b4686ead7ab56da65b,
+    type: 2}
+  icon: {fileID: 21300000, guid: 090f225fd831d447c859d0df85f4addb, type: 3}
+  SplashEffect: {fileID: 1379667686448188, guid: 281d3ce72952a43d485bade7188b8606,
+    type: 2}
+  HitEffect: {fileID: 1802482820977442, guid: a346b428c375841f396283cd5f3bd498, type: 2}
+  AdditionalDeathEffect: {fileID: 1830395067899408, guid: 94a1edd3f44a24bfb8d0bb0734c72023,
+    type: 2}
+  itemType: 0
+  itemItemQuality: 0
+  Stars: 0
+  Damage: 1
+  Defense: 0
+  MagicForce: 0

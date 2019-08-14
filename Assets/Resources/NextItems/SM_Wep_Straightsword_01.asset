@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac540a6d5ef44b5aa584e1b930ce8a5, type: 3}
+  m_Name: SM_Wep_Straightsword_01
+  m_EditorClassIdentifier: 
+  id: 110
+  TempId: 0
+  itemName: Phantom Doomblade
+  itemDescription: The blade has a thin, straight cross-guard, just large enough
+  itemlevel: 1
+  itemSegments: 0
+  TotalItemSegment: 0
+  objectToSpawn: {fileID: 148790, guid: 92cd70a481699ac4b93380dc1184f864, type: 2}
+  icon: {fileID: 21300000, guid: d49a3e17c75e949f1a76067248b4e520, type: 3}
+  SplashEffect: {fileID: 1832781659047782, guid: 281d3ce72952a43d485bade7188b8606,
+    type: 2}
+  HitEffect: {fileID: 1844698838251418, guid: 686b8ceeea25f40f2a38f522dab366ae, type: 2}
+  AdditionalDeathEffect: {fileID: 1539541678137352, guid: 1b5f04cf66cb24c42976fbcb15109829,
+    type: 2}
+  bullet: {fileID: 0}
+  isForLeftHand: 0
+  itemType: 0
+  itemItemQuality: 2
+  Stars: 0
+  BelongClasses:
+  - {fileID: 11400000, guid: 4ef84b1a5b6904c2e8dd23bad4071395, type: 2}
+  - {fileID: 11400000, guid: c0f947188f60745d19f178ab38238561, type: 2}
+  _Damage: 4
+  _Defense: 1
+  _MagicForce: 1

@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 1351d029d1f5a492faffeb183cdafea9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Character_Ancient_Warrior_01
+    100004: Character_AncientQueen_01
+    100006: Character_BarbarianGiant_01
+    100008: Character_Big_Ork_01
+    100010: Character_DarkElf_01
+    100012: Character_Dwarf_01
+    100014: Character_ElementalGolem_01
+    100016: Character_EvilGod_01
+    100018: Character_ForestGuardian_01
+    100020: Character_ForestWitch_01
+    100022: Character_FortGolem_01
+    100024: Character_MechanicalGolem_01
+    100026: Character_Medusa_01
+    100028: Character_MutantGuy_01
+    100030: Character_Mystic_01
+    100032: Character_Pig_Butcher_01
+    100034: Character_RedDemon_01
+    100036: Character_Slayer_01
+    100038: Character_SpiritDemon
+    100040: Character_SpiritDemon_Glow
+    100042: Character_Troll_01
+    100044: //RootNode
+    100046: Lamp
+    400000: Camera
+    400002: Character_Ancient_Warrior_01
+    400004: Character_AncientQueen_01
+    400006: Character_BarbarianGiant_01
+    400008: Character_Big_Ork_01
+    400010: Character_DarkElf_01
+    400012: Character_Dwarf_01
+    400014: Character_ElementalGolem_01
+    400016: Character_EvilGod_01
+    400018: Character_ForestGuardian_01
+    400020: Character_ForestWitch_01
+    400022: Character_FortGolem_01
+    400024: Character_MechanicalGolem_01
+    400026: Character_Medusa_01
+    400028: Character_MutantGuy_01
+    400030: Character_Mystic_01
+    400032: Character_Pig_Butcher_01
+    400034: Character_RedDemon_01
+    400036: Character_Slayer_01
+    400038: Character_SpiritDemon
+    400040: Character_SpiritDemon_Glow
+    400042: Character_Troll_01
+    400044: //RootNode
+    400046: Lamp
+    2000000: Camera
+    2100000: lambert22
+    2100002: lambert21
+    2100004: lambert20
+    2100006: lambert17
+    2100008: lambert16
+    2100010: lambert13.001
+    2100012: lambert15.001
+    2100014: lambert18
+    2100016: lambert14.001
+    2100018: lambert12.001
+    2100020: lambert11.001
+    2100022: lambert14
+    2100024: lambert2
+    2100026: A20
+    2100028: lambert15
+    2100030: lambert13
+    2100032: _Ghost
+    2100034: lambert12
+    2100036: lambert10
+    2100038: lambert11
+    2100040: lambert9
+    2300000: Character_Ancient_Warrior_01
+    2300002: Character_AncientQueen_01
+    2300004: Character_BarbarianGiant_01
+    2300006: Character_Big_Ork_01
+    2300008: Character_DarkElf_01
+    2300010: Character_Dwarf_01
+    2300012: Character_ElementalGolem_01
+    2300014: Character_EvilGod_01
+    2300016: Character_ForestGuardian_01
+    2300018: Character_ForestWitch_01
+    2300020: Character_FortGolem_01
+    2300022: Character_MechanicalGolem_01
+    2300024: Character_Medusa_01
+    2300026: Character_MutantGuy_01
+    2300028: Character_Mystic_01
+    2300030: Character_Pig_Butcher_01
+    2300032: Character_RedDemon_01
+    2300034: Character_Slayer_01
+    2300036: Character_SpiritDemon
+    2300038: Character_SpiritDemon_Glow
+    2300040: Character_Troll_01
+    3300000: Character_Ancient_Warrior_01
+    3300002: Character_AncientQueen_01
+    3300004: Character_BarbarianGiant_01
+    3300006: Character_Big_Ork_01
+    3300008: Character_DarkElf_01
+    3300010: Character_Dwarf_01
+    3300012: Character_ElementalGolem_01
+    3300014: Character_EvilGod_01
+    3300016: Character_ForestGuardian_01
+    3300018: Character_ForestWitch_01
+    3300020: Character_FortGolem_01
+    3300022: Character_MechanicalGolem_01
+    3300024: Character_Medusa_01
+    3300026: Character_MutantGuy_01
+    3300028: Character_Mystic_01
+    3300030: Character_Pig_Butcher_01
+    3300032: Character_RedDemon_01
+    3300034: Character_Slayer_01
+    3300036: Character_SpiritDemon
+    3300038: Character_SpiritDemon_Glow
+    3300040: Character_Troll_01
+    4300000: Character_Dwarf_01
+    4300002: Character_MutantGuy_01
+    4300004: Character_MechanicalGolem_01
+    4300006: Character_Slayer_01
+    4300008: Character_Big_Ork_01
+    4300010: Character_FortGolem_01
+    4300012: Character_RedDemon_01
+    4300014: Character_Pig_Butcher_01
+    4300016: Character_Troll_01
+    4300018: Character_ElementalGolem_01
+    4300020: Character_BarbarianGiant_01
+    4300022: Character_ForestWitch_01
+    4300024: Character_EvilGod_01
+    4300026: Character_Mystic_01
+    4300028: Character_ForestGuardian_01
+    4300030: Character_DarkElf_01
+    4300032: Character_SpiritDemon_Glow
+    4300034: Character_SpiritDemon
+    4300036: Character_Ancient_Warrior_01
+    4300038: Character_Medusa_01
+    4300040: Character_AncientQueen_01
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

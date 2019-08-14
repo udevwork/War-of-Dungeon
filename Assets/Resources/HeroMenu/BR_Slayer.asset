@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32b5323b97bc74674b11fc9e584a5aaf, type: 3}
+  m_Name: BR_Slayer
+  m_EditorClassIdentifier: 
+  Id: 7
+  charecter: {fileID: 11400000, guid: a9b308fceccbe4172a8a0770b4f45d57, type: 2}
+  CharIcon: {fileID: 21300000, guid: 39c40ab90a029451dac8967eafa8acb1, type: 3}
+  CharName: Slayer
+  isCharecterUnlocked: 0
+  ChoosedMaterial: {fileID: 0}
+  skins:
+  - {fileID: 2100000, guid: 993fbccda91bc46698a54f1dfde406c3, type: 2}
+  - {fileID: 2100000, guid: a00d6822b36ae4f318f2882eeace2603, type: 2}
+  - {fileID: 2100000, guid: 97a681e961b2d4ba0b5d8aec76a98871, type: 2}
+  ClassOne: {fileID: 11400000, guid: 4ef84b1a5b6904c2e8dd23bad4071395, type: 2}
+  ClassTwo: {fileID: 11400000, guid: c0f947188f60745d19f178ab38238561, type: 2}
+  ClassThree: {fileID: 11400000, guid: c749e1aab01b84db28bef7f898fba321, type: 2}
+  ClassFour: {fileID: 11400000, guid: 78651855e3c3343b7ace428544db145f, type: 2}
+  skin_Choosed: 0
+  CallMeDaddyModel: {fileID: 1663477575043758, guid: 77b8d80d5119e4e3f92dc59ae11e6078,
+    type: 2}

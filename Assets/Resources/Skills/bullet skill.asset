@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f46e965cc5e44edea06a272825c32c4, type: 3}
+  m_Name: bullet skill
+  m_EditorClassIdentifier: 
+  Id: 2
+  skillName: b
+  skillDescription: bbb
+  level: 1
+  Cost: 10
+  Main_VFX: {fileID: 1683785426204490, guid: f11f6d9c4b95f40028fd4ed1441b3406, type: 2}
+  AdittionalEffect: {fileID: 1502385344798288, guid: d12a8bfe78e0c4cf9a985af0733457e7,
+    type: 2}
+  SFX: {fileID: 0}
+  ReloadTime: 1
+  SpellIcon: {fileID: 21300000, guid: d75c3ea4f69088244983a84c88525796, type: 3}
+  DefMagicForce: 20
+  hero: {fileID: 0}
+  SeconEffectPosition: {fileID: 0}
+  skillType: 1

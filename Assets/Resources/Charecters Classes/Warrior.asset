@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0175deac0d4d9493ebea683717974bba, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  Id: 7
+  ClassName: Warrior
+  ClassDecription: 
+  ClassIcon: {fileID: 21300000, guid: a08340d1171f6f04eb84c5dcdb88eb42, type: 3}
+  IsShildOnBack: 0
+  DefoultWeapon: {fileID: 11400000, guid: 4b2838952ad794b2cae42b43483e201c, type: 2}
+  BR_animator: {fileID: 9100000, guid: 92e4ece524e0c4b7cb935bf05a1364aa, type: 2}
+  Simple_animator: {fileID: 9100000, guid: bd77b6fc3756848a88d0814e68bfc1c3, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32b5323b97bc74674b11fc9e584a5aaf, type: 3}
+  m_Name: AncientWarrior
+  m_EditorClassIdentifier: 
+  Id: 2
+  charecter: {fileID: 11400000, guid: 833d56f4317a14ca4b0ac644530d6c67, type: 2}
+  CharIcon: {fileID: 21300000, guid: 999d0261253c14091b57101f5c2d5bef, type: 3}
+  CharName: AncientWarrior
+  isCharecterUnlocked: 0
+  ChoosedMaterial: {fileID: 2100000, guid: be707dcc1d17240eaade49dd9e061ef9, type: 2}
+  skins:
+  - {fileID: 2100000, guid: c42de05ebf9554ba7b95eeaf32bb5251, type: 2}
+  - {fileID: 2100000, guid: 01b345fb03be44670bc6a8117e43667a, type: 2}
+  - {fileID: 2100000, guid: be707dcc1d17240eaade49dd9e061ef9, type: 2}
+  ClassOne: {fileID: 11400000, guid: 4ef84b1a5b6904c2e8dd23bad4071395, type: 2}
+  ClassTwo: {fileID: 11400000, guid: c0f947188f60745d19f178ab38238561, type: 2}
+  ClassThree: {fileID: 11400000, guid: c749e1aab01b84db28bef7f898fba321, type: 2}
+  ClassFour: {fileID: 11400000, guid: 78651855e3c3343b7ace428544db145f, type: 2}
+  skin_Choosed: 0
+  CallMeDaddyModel: {fileID: 1616752557965084, guid: e43fd7a029b824e38bb5aea833f04c8a,
+    type: 2}

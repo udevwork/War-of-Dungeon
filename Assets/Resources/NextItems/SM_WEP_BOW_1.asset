@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac540a6d5ef44b5aa584e1b930ce8a5, type: 3}
+  m_Name: SM_WEP_BOW_1
+  m_EditorClassIdentifier: 
+  id: 33
+  TempId: 0
+  itemName: Stormsong
+  itemDescription: A very short, broad, curved blade made of crystal is held by a
+    grip wrapped in lavish
+  itemlevel: 1
+  itemSegments: 0
+  TotalItemSegment: 0
+  objectToSpawn: {fileID: 1026890305975460, guid: a600347ca11574e679d588cd526af6fa,
+    type: 2}
+  icon: {fileID: 21300000, guid: d98fed27039cf4e0c835d2166fb4f1b4, type: 3}
+  SplashEffect: {fileID: 0}
+  HitEffect: {fileID: 1844698838251418, guid: f72604f7d7f094822baf9c7ffc1feca4, type: 2}
+  AdditionalDeathEffect: {fileID: 1539541678137352, guid: 1b5f04cf66cb24c42976fbcb15109829,
+    type: 2}
+  bullet: {fileID: 114946383561697058, guid: a5b3aa0f1aae3491fae66df094b7277a, type: 2}
+  isForLeftHand: 1
+  itemType: 0
+  itemItemQuality: 0
+  Stars: 0
+  BelongClasses:
+  - {fileID: 11400000, guid: 057f934994f07491b83db7e783847632, type: 2}
+  _Damage: 4
+  _Defense: 1
+  _MagicForce: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 354ed3af7a3d24b6f8c5c5272c9bcb5f, type: 3}
+  m_Name: SpiritDemon
+  m_EditorClassIdentifier: 
+  Id: 12
+  objectToSpawn: {fileID: 1370153160295918, guid: 2a168aa6b48ce4c9ebfcbcffdae24cbf,
+    type: 2}
+  isBR_animator: 0
+  Class: {fileID: 11400000, guid: 4ef84b1a5b6904c2e8dd23bad4071395, type: 2}
+  Health: 10
+  Vitality: 0
+  Dexterity: 6
+  Intelligence: 3
+  Strength: 20
+  Skill_One: {fileID: 11400000, guid: 7d0d6e2ea99f947aeb4ba39ab2d8ff1c, type: 2}
+  Skill_Two: {fileID: 11400000, guid: a619de1dfcd1346efbca52a1398e21ba, type: 2}
+  Skill_Three: {fileID: 11400000, guid: a1de796256f074e66abd03b4adc0625b, type: 2}

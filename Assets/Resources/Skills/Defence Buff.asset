@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e08a724d516d64e4d92f840898412897, type: 3}
+  m_Name: Defence Buff
+  m_EditorClassIdentifier: 
+  Id: 4
+  skillName: 1
+  skillDescription: 2
+  level: 1
+  Cost: 10
+  Main_VFX: {fileID: 1054980634478080, guid: d78f8de3639b64637ae2a7f7dc685c2d, type: 2}
+  AdittionalEffect: {fileID: 1570040966162836, guid: 360bb548f0e224a63b4e5126f96600ed,
+    type: 2}
+  SFX: {fileID: 0}
+  ReloadTime: 1
+  SpellIcon: {fileID: 21300000, guid: 1667955fff4e1a141a5a99428fc35767, type: 3}
+  DefMagicForce: 1
+  hero: {fileID: 0}
+  SeconEffectPosition: {fileID: 0}
+  skillType: 0
